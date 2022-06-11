@@ -8,3 +8,4 @@ The log of my #100DaysOfCode challenge. Started on June 09, 2022.
 Worked on symantic markup. Focused more an web accessibilty and best common practics. http://www.example.com
 
 ### R1D2
+Developed a HTML tag/semantic markup with jQuery http://www.example.com
