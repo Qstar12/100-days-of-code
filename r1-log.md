@@ -16,5 +16,8 @@ Worked on canvas and game development usin JavaScript http://www.example.com
 ### R1D4
 Focused on higher order functions. http://www.example.com
 
-### R1D4
+### R1D5
 Decided to go forward building an application that will compile user information and build a custom resume. Begin planning. http://www.example.com
+
+###R1D5
+Worked on blockchain development.
