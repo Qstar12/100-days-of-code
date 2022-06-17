@@ -21,3 +21,6 @@ Decided to go forward building an application that will compile user information
 
 ###R1D5
 Worked on blockchain development.
+
+###R1D6
+Worked on JavaScript algorithms.
